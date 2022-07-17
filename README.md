@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guilmette
-- 👀 I’m interested in Pyton!!
+- 👀 I’m trying to get better in Python!!
 more to come later :)
 
 <!---
